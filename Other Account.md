@@ -1,0 +1,5 @@
+---
+tags: 🔒
+---
+
+`Username:` `Email:` `Password:`
