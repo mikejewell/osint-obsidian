@@ -17,3 +17,8 @@ aliases:
 - `Institutions:`
 - `Employment:`
 
+## Accounts
+
+- `Email accounts:`
+- `Social accounts:`
+- `Other accounts:`
